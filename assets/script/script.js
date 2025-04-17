@@ -1,4 +1,4 @@
-const texts = ["Irfan Ali Narejo", "Data Engineer ", "Machine Learing Developer"];
+const texts = ["Irfan Ali Narejo", "Data Engineer ", "ML Developer"];
 let textIndex = 0;
 let charIndex = 0;
 const speed = 100;
